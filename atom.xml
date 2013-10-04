@@ -3,7 +3,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://TheSunak.github.io/atom.xml" rel="self"/>
   <link href="http://TheSunak.github.io/"/>
-  <updated>2013-10-03T20:47:53-04:00</updated>
+  <updated>2013-10-03T20:57:31-04:00</updated>
   <id>http://TheSunak.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -11,5 +11,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[hello world]]></title>
+    <link href="http://TheSunak.github.io/blog/2013/10/03/hello-world/"/>
+    <updated>2013-10-03T20:57:00-04:00</updated>
+    <id>http://TheSunak.github.io/blog/2013/10/03/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
